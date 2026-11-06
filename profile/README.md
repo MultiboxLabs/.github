@@ -7,4 +7,5 @@ Welcome to Multibox Labs! Interesting applications and services can be found her
 - [QuickFinder](https://github.com/QuickFinderApp/app) **(OPEN SOURCE)** - Cross-platform Keystroke Launcher
 - [Conversio](https://chat.iamevan.dev) - Get answers to any questions quickly & easily.
 - [Flow](https://github.com/MultiboxLabs/flow-browser) - An experimental browser built on electron. (Arc & Zen Alternative)
+- [Wren](https://wrenbrowser.com) - A cool new browser built on top of Chromium (Flow Successor)
 - DeployNest [SOON] - Deploy a wide range of applications easily.
